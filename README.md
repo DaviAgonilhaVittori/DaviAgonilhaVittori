@@ -1,4 +1,6 @@
 ### Hello! I'm Davi Agonilha Vittori 👋
+🎓Electrical Engeneering at Universidade Estadual de Maringá
+<br/>
 📚 Data Science Learner
 <br/>
 💻 Dev Enthusiastic
